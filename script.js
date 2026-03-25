@@ -1,7 +1,7 @@
 //alert("Hello World!");
 
 function Gomb() {
-    document.getElementById("szoveg").innerHTML = "Good Boy"
+    document.getElementById("szoveg").innerHTML = "Hi!"
 }
 
 function osszead() {
